@@ -1,0 +1,61 @@
+*{
+	margin: 10;
+	padding: 0;
+	font-family: Helvetica;
+	font-size: 1em;
+
+
+}
+
+	header{
+	margin: 20px auto;
+	width: 100%;
+	text-align: center;
+	position: relative;
+	display: inline-block;
+	width: 100%;
+}
+
+#principal>ul>li{
+	display: inline-block;
+	padding-right: 50px;
+
+	
+	]
+}
+#principal{
+	background: orange;
+	border: 1px solid;
+}
+
+#formulario{
+
+  position: absolute;
+   padding:60px; 
+  
+}
+
+#contenedor{
+	color: white;
+
+}
+#contenedor>h1{
+   font-size: 4em; 
+}
+
+}
+
+#mapa{
+	position: absolute;
+	padding: 156px;
+	padding-left: 250px;
+}
+
+body{
+	background: url(../img/gato.png);
+}
+.final{
+	text-align: center;
+	color: white;
+}
+
